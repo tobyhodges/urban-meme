@@ -1,111 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/01-introduction.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/01-introduction.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/02-image-basics.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/02-image-basics.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/03-skimage-images.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/03-skimage-images.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/04-drawing.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/04-drawing.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/05-creating-histograms.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/05-creating-histograms.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/06-blurring.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/06-blurring.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/07-thresholding.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/07-thresholding.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/08-connected-components.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/08-connected-components.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/09-challenges.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/09-challenges.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/404.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/404.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/CODE_OF_CONDUCT.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/LICENSE.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/discuss.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/aio.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/edge-detection.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/discuss.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/index.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/edge-detection.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/instructor/01-introduction.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/images.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/instructor/02-image-basics.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/index.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/instructor/03-skimage-images.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/instructor/01-introduction.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/instructor/04-drawing.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/instructor/02-image-basics.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/instructor/05-creating-histograms.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/instructor/03-skimage-images.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/instructor/06-blurring.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/instructor/04-drawing.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/instructor/07-thresholding.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/instructor/05-creating-histograms.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/instructor/08-connected-components.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/instructor/06-blurring.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/instructor/09-challenges.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/instructor/07-thresholding.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/instructor/404.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/instructor/08-connected-components.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/instructor/CODE_OF_CONDUCT.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/instructor/09-challenges.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/instructor/LICENSE.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/instructor/404.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/instructor/discuss.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/instructor/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/instructor/edge-detection.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/instructor/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/instructor/index.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/instructor/aio.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/instructor/prereqs.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/instructor/discuss.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/instructor/profiles.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/instructor/edge-detection.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/instructor/reference.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/instructor/images.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/prereqs.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/instructor/index.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/profiles.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/instructor/instructor-notes.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/image-processing/reference.html</loc>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/instructor/key-points.html</loc>
+  </url>
+  <url>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/instructor/prereqs.html</loc>
+  </url>
+  <url>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/instructor/profiles.html</loc>
+  </url>
+  <url>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/key-points.html</loc>
+  </url>
+  <url>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/prereqs.html</loc>
+  </url>
+  <url>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/profiles.html</loc>
+  </url>
+  <url>
+    <loc>‘https://tobyhodges.github.io/urban-meme’/reference.html</loc>
   </url>
 </urlset>

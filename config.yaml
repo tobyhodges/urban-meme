@@ -84,6 +84,10 @@ profiles:
 # sandpaper and varnish versions) should live
 
 
-url: 'https://datacarpentry.github.io/image-processing'
+sandpaper: carpentries/sandpaper@enable-search
+varnish: carpentries/varnish@use-search-2023
+url: ‘https://tobyhodges.github.io/urban-meme’
 analytics: carpentries
 lang: en
+
+
